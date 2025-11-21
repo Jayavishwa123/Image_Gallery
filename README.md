@@ -310,18 +310,18 @@ document.querySelector(".close").addEventListener("click", () => {
 ```
 
 ## OUTPUT
-![alt text](Image_Gallery/gall01.png)
+![alt text](gall01.png)
 
-![alt text](Image_Gallery/gall02.png)
+![alt text](gall02.png)
 
-![alt text](Image_Gallery/gall03.png)
+![alt text](gall03.png)
 
-![alt text](Image_Gallery/gall04.png)
+![alt text](gall04.png)
 
-![alt text](Image_Gallery/gall05.png)
+![alt text](gall05.png)
 
-![alt text](Image_Gallery/gall06.png)
+![alt text](gall06.png)
 
-![alt text](Image_Gallery/gall07.png)
+![alt text](gall07.png)
 ## RESULT
   The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
